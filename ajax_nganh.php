@@ -1,7 +1,7 @@
 <?php 
 	require_once("config.php");
 	
-	// kiểm tra trường hợp lấy thông tin SV
+	
 	
 	if (isset($_REQUEST["Type"])){
 		if ($_REQUEST["Type"]== "getInfo"){
