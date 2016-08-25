@@ -30,7 +30,7 @@
 	
 	 <h3>Chào mừng bạn đến với Hệ thống quản lý đào tạo.</h3> 
 	 
-	 Các chức năng đang được cập nhật, xin vui lòng quay lại sau. 
+	 Các chức năng đang được cập nhật, xin vui lòng quay lại sau nhe. 
 	 <p>
 	 </div>
 </div>
