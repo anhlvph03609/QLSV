@@ -55,7 +55,7 @@
 		}
 		
 	}
-	
+	// day nhe
 	//kiểm tra trường hợp xóa 1 dòng
 	if (isset($_REQUEST["MaCN"])){
 		$macn = $_REQUEST["MaCN"];
